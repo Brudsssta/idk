@@ -1,1 +1,2 @@
-print("Hello")
+user=input("Enter your name: ")
+print("Hello "+name)
