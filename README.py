@@ -1,2 +1,2 @@
-user=input("Enter your name: ")
-print("Hello "+name)
+import socket
+s=socket.socket.socket(socket.AF_INET,socket.SOCK_STREAM)
